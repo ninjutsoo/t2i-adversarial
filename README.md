@@ -1,1 +1,1 @@
-# Text to Image - adversarial
+# Text to Image - Adversarial
