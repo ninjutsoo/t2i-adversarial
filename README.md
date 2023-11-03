@@ -13,9 +13,16 @@ This repository offers a curated selection of research on the adversarial robust
    * [Table of Contents](#table-of-contents)
    * [T2I Robustness](#t2i-robustness)
      * [Papers](#t2i-robustness-papers)
+     * [Blogs](#t2i-robustness-blogs)
+     * [Datasets](#t2i-robustness-datasets)
 
 ## T2I Robustness<span id="t2i-robustness"/>
 ### Papers <span id="t2i-robustness-papers"/>
 * A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion [pdf](https://arxiv.org/pdf/2303.16378.pdf)
 * Black Box Adversarial Prompting for Foundation Models [pdf](https://arxiv.org/pdf/2302.04237.pdf)
 * Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks [pdf](https://arxiv.org/pdf/2306.13103.pdf)
+### Blogs <span id="t2i-robustness-blogs"/>
+### Datasets <span id="t2i-robustness-datasets"/>
+* SBU Captions [link](https://huggingface.co/datasets/sbu_captions)
+* DiffusionDB [link](https://huggingface.co/datasets/poloclub/diffusiondb)
+* LAION COCO [link]([https://arxiv.org/pdf/2306.13103.pdf](https://huggingface.co/datasets/laion/laion-coco)https://huggingface.co/datasets/laion/laion-coco)
