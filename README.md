@@ -12,8 +12,10 @@ This repository offers a curated selection of research on the adversarial robust
 * [Trustworthiness of Generative AI](#head)
    * [Table of Contents](#table-of-contents)
    * [T2I Robustness](#t2i-robustness)
+     * [Papers](#t2i-robustness-papers)
 
 ## T2I Robustness<span id="t2i-robustness"/>
+### Papers <span id="t2i-robustness-papers"/>
 * A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion [pdf](https://arxiv.org/pdf/2303.16378.pdf)
 * Black Box Adversarial Prompting for Foundation Models [pdf](https://arxiv.org/pdf/2302.04237.pdf)
 * Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks [pdf](https://arxiv.org/pdf/2306.13103.pdf)
