@@ -19,13 +19,13 @@ This repository offers a curated selection of research on the adversarial robust
 
 ## T2I Generative AI<span id="t2i-generative"/>
 ### T2I Attacks<span id="t2i-generative-attacks"/>
-### Papers <span id="t2i-generative-attacks-papers"/>
+#### Papers <span id="t2i-generative-attacks-papers"/>
 * A Pilot Study of Query-Free Adversarial Attack against Stable Diffusion [pdf](https://arxiv.org/pdf/2303.16378.pdf)
 * Black Box Adversarial Prompting for Foundation Models [pdf](https://arxiv.org/pdf/2302.04237.pdf)
 * Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks [pdf](https://arxiv.org/pdf/2306.13103.pdf)
-### Blogs <span id="t2i-generative-attacks-blogs"/>
+#### Blogs <span id="t2i-generative-attacks-blogs"/>
 * This new data poisoning tool lets artists fight back against generative AI [link](https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/)
-### Datasets <span id="t2i-generative-attacks-datasets"/>
+#### Datasets <span id="t2i-generative-attacks-datasets"/>
 * SBU Captions [link](https://huggingface.co/datasets/sbu_captions)
 * DiffusionDB [link](https://huggingface.co/datasets/poloclub/diffusiondb)
 * LAION COCO [link](https://huggingface.co/datasets/laion/laion-coco)
