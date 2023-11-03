@@ -1,1 +1,1 @@
-# t2i-adversarial
+# Text to Image - adversarial
