@@ -1,1 +1,1 @@
-# Text to Image - Adversarial
+# Text to Image - Trustworthy
