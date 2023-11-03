@@ -25,4 +25,4 @@ This repository offers a curated selection of research on the adversarial robust
 ### Datasets <span id="t2i-robustness-datasets"/>
 * SBU Captions [link](https://huggingface.co/datasets/sbu_captions)
 * DiffusionDB [link](https://huggingface.co/datasets/poloclub/diffusiondb)
-* LAION COCO [link]([https://arxiv.org/pdf/2306.13103.pdf](https://huggingface.co/datasets/laion/laion-coco)https://huggingface.co/datasets/laion/laion-coco)
+* LAION COCO [link](https://huggingface.co/datasets/laion/laion-coco)
