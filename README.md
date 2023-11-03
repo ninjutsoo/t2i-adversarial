@@ -20,7 +20,6 @@ This repository offers a curated selection of research on the adversarial robust
          * [Blogs](#t2i-generative-attacks-blogs)
          * [Datasets](#t2i-generative-attacks-datasets)
 
-            [T2I Generative AI](#t2i-generative)
 
 ## T2I Generative AI<span id="t2i-generative"/>
 ### T2I Attacks<span id="t2i-generative-attacks"/>
