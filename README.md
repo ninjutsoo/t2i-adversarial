@@ -11,11 +11,16 @@ This repository offers a curated selection of research on the adversarial robust
 ## Table of Contents<span id="table-of-contents"/>
 * [Trustworthiness of Generative AI](#head)
    * [Table of Contents](#table-of-contents)
-   * [T2I Generative AI](#t2i-generative)
-     * [T2I Attacks](#t2i-generative-attacks)
-       * [Papers](#t2i-generative-attacks-papers)
-       * [Blogs](#t2i-generative-attacks-blogs)
-       * [Datasets](#t2i-generative-attacks-datasets)
+   * [Text Generative AI](#text-generative)
+   * [Image Generative AI](#image-generative)
+   * [Multi-Modality Generative AI](#t2i-generative)
+     * [T2I Generative AI](#t2i-generative)
+       * [T2I Attacks](#t2i-generative-attacks)
+         * [Papers](#t2i-generative-attacks-papers)
+         * [Blogs](#t2i-generative-attacks-blogs)
+         * [Datasets](#t2i-generative-attacks-datasets)
+
+            [T2I Generative AI](#t2i-generative)
 
 ## T2I Generative AI<span id="t2i-generative"/>
 ### T2I Attacks<span id="t2i-generative-attacks"/>
