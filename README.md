@@ -1,6 +1,6 @@
-# Trustworthiness of Generative AI<span id="head"/>
+# Trustworthy Generative AI<span id="head"/>
 
-A collection of papers and resources on the Trustworthiness of Generative AI.
+A collection of papers and resources on the Trustworthy Generative AI. 
 
 ## Overview
 
