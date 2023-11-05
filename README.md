@@ -15,7 +15,10 @@ A collection of papers and resources on the Trustworthiness of Generative AI.
          * [Papers](#t2i-generative-attacks-papers)
          * [Blogs](#t2i-generative-attacks-blogs)
          * [Datasets](#t2i-generative-attacks-datasets)
-
+     * [I2T Generative AI](#i2t-generative)
+         * [Papers](#t2i-generative-attacks-papers)
+         * [Blogs](#t2i-generative-attacks-blogs)
+         * [Datasets](#t2i-generative-attacks-datasets)
 
 ## T2I Generative AI<span id="t2i-generative"/>
 ### T2I Attacks<span id="t2i-generative-attacks"/>
