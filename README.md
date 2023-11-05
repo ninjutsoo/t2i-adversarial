@@ -1,6 +1,6 @@
 # Trustworthiness of Generative AI<span id="head"/>
 
-A collection of papers and resources on the adversarial robustness of Text-to-Image Diffusion Models.
+A collection of papers and resources on the Trustworthiness of Generative AI.
 
 ## Overview
 
